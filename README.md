@@ -34,7 +34,7 @@ Este é um código simples em C, que pode ser compilado e executado em qualquer 
 1.  Salve o código como `aluno.c`.
 2.  Compile o arquivo no seu terminal:
     ```bash
-    gcc aluno.c -o aluno
+    gcc estruturas-basicas-em-C/aluno.c -o aluno
     ```
 3.  Execute o programa:
     ```bash
