@@ -8,7 +8,7 @@ Implementações de Algoritmos e Estruturas de Dados I em C e C++.
 ### Visão e Objetivo do Projeto
 Este projeto demonstra a implementação e o uso básico de uma **Estrutura de Dados (`struct`)** na linguagem **C** para organizar informações relacionadas a um único registro de aluno. Serve como um exercício fundamental na manipulação de **tipos de dados definidos pelo usuário** e o acesso a membros da estrutura.
 
-### Tecnologias Utilizadas
+### Linguagem Utilizada
 * **Linguagem de Programação:** C
 
 ### Conceitos Chave de Algoritmos e Estrutura de Dados I
