@@ -1,5 +1,5 @@
 # AEDs1-Projetos-Dev-Michele
-Implementações de Algoritmos e Estruturas de Dados I (AEDs I) em C e C++.
+Implementações de Algoritmos e Estruturas de Dados I em C e C++.
 
 ---
 
@@ -11,7 +11,7 @@ Este projeto demonstra a implementação e o uso básico de uma **Estrutura de D
 ### Tecnologias Utilizadas
 * **Linguagem de Programação:** C
 
-### Conceitos Chave de AEDs I
+### Conceitos Chave de Algoritmos e Estrutura de Dados I
 * **Estruturas de Dados (Struct):** Definição e uso.
 * **Manipulação de Strings:** Uso seguro de `strncpy` e terminador nulo (`\0`).
 
