@@ -1,42 +1,70 @@
-# AEDs1-Projetos-Dev-Michele
-Implementações de Algoritmos e Estruturas de Dados I em C e C++.
+# AEDS 1 - Algoritmos e Estruturas de Dados I
+
+Repositório contendo exercícios, listas e trabalhos desenvolvidos na disciplina 
+de Algoritmos e Estruturas de Dados I - PUC Minas.
 
 ---
 
-## Projeto: Manipulação de Dados de Aluno com Struct (Linguagem C)
+## Objetivo
 
-### Visão e Objetivo do Projeto
-Este projeto demonstra a implementação e o uso básico de uma **Estrutura de Dados (`struct`)** na linguagem **C** para organizar informações relacionadas a um único registro de aluno. Serve como um exercício fundamental na manipulação de **tipos de dados definidos pelo usuário** e o acesso a membros da estrutura.
-
-### Linguagem Utilizada
-* **Linguagem de Programação:** C
-
-### Conceitos Chave de Algoritmos e Estrutura de Dados I
-* **Estruturas de Dados (Struct):** Definição e uso.
-* **Manipulação de Strings:** Uso seguro de `strncpy` e terminador nulo (`\0`).
+Praticar lógica de programação e fundamentos de estruturas de dados, 
+utilizando a linguagem C.
 
 ---
 
-### Conceitos e Funcionalidade
-O código ilustra a definição e a utilização de uma `struct` chamada **`Aluno`**, que agrupa diferentes tipos de dados sob um único nome.
+## Conteúdos abordados
 
-* **Definição de struct:** Criação de um tipo de dado personalizado que contém: `nome` (String), `matricula` (`int`), `mensalidade`, `nota1`, `nota2`, e `media` (`float`).
-* **Acesso a Membros:** Utilização do **operador ponto (`.`)** para acessar e modificar campos individuais da estrutura.
-* **Cálculo Algorítmico Simples:** Implementação do cálculo da média aritmética das duas notas.
-* **Segurança de String:** Demonstração do uso de `strncpy` para copiar strings de forma segura, prevenindo potenciais estouros de *buffer*.
+- Tipos primitivos e operadores
+- Estruturas condicionais e de repetição
+- Funções e modularização
+- Vetores e matrizes
+- Registros (`struct`)
+- Ponteiros
+- Alocação dinâmica de memória (`malloc`, `free`)
+- Passagem por referência
+- Introdução à recursão
+- Algoritmos de ordenação básicos
 
 ---
 
-### Como Executar e Compilar
+## Tecnologias utilizadas
 
-Este é um código simples em C, que pode ser compilado e executado em qualquer ambiente com o compilador GCC instalado (Code::Blocks, VS Code com MinGW, Terminal Linux, etc.).
+- Linguagem C e C++
+- GCC
+- VS Code
 
-1.  Salve o código como `aluno.c`.
-2.  Compile o arquivo no seu terminal:
-    ```bash
-    gcc estruturas-basicas-em-C/aluno.c -o aluno
-    ```
-3.  Execute o programa:
-    ```bash
-    ./aluno 
-    ```
+---
+
+## Estrutura do repositório
+
+AEDS1/
+│
+├── Lista 1/
+├── Lista 2/
+├── Lista 3/
+├── Lista 4/
+├── Lista 5/
+├── Lista 6/
+├── Lista 7/
+├── Lista 8/
+├── Lista 9/
+└── README.md
+
+---
+
+## Como executar
+
+Compile com:
+
+gcc arquivo.c -o programa
+
+Execute com:
+
+./programa
+
+---
+
+## Autora
+
+Michele Almeida  
+Estudante de Ciência da Computação - PUC Minas
